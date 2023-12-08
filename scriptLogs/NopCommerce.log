@@ -1,0 +1,364 @@
+[2023-12-08 10:32:24,106] - Register - Step 01: Click to Register link
+[2023-12-08 10:32:24,990] - Register - Step 02: Click To radio button by label with label is 'Female'
+[2023-12-08 10:32:25,236] - Register - Step 03: Enter to Frirstname textbox with value is 'Automation'
+[2023-12-08 10:32:25,485] - Register - Step 04: Enter to lastName textbox with value is 'FC'
+[2023-12-08 10:32:25,675] - Register - Step 05: Select to Day dropdown with value is '10'
+[2023-12-08 10:32:25,961] - Register - Step 06: Select to Month dropdown with value is 'August'
+[2023-12-08 10:32:26,203] - Register - Step 07: Select to Year dropdown with value is '1999'
+[2023-12-08 10:32:26,407] - Register - Step 08: Enter to Email textbox with value is 'automationfc93281@fakemail.com'
+[2023-12-08 10:32:26,763] - Register - Step 09: Click To checkbox by label with label is 'Newsletter'
+[2023-12-08 10:32:26,842] - Register - Step 10: Enter to Password textbox with value is '123456'
+[2023-12-08 10:32:27,067] - Register - Step 11: Enter to ConfirmPassword textbox with value is '123456'
+[2023-12-08 10:32:27,256] - Register - Step 12: Click to 'Regiter' button
+[2023-12-08 10:32:28,043] - Register - Step 13: verify register success message is diplayed
+[2023-12-08 10:32:28,122] - Register - Step 14: click to 'Continue' button
+[2023-12-08 10:32:28,837] - Login - Step 01: Navigate to Login page
+[2023-12-08 10:32:29,360] - Login - Step 02: Enter to Email textbox with value is 'automationfc93281@fakemail.com'
+[2023-12-08 10:32:29,578] - Login - Step 03: Enter to Password textbox with value is '123456'
+[2023-12-08 10:32:29,755] - Login - Step 04: Click to Login button
+[2023-12-08 10:32:30,554] - Login - Step 05: Verify 'My Account' link is displayed
+[2023-12-08 10:32:30,630] - Login - Step 01: Navigate to 'My Account' page
+[2023-12-08 10:32:31,128] - Login - Step 02: Verify 'Customer Infor' page is displayed
+[2023-12-08 10:32:31,195] - Login - Step 03: Verify 'First Name' value is correctly
+[2023-12-08 10:32:31,246] - Login - Step 04: Verify 'Last Name' value is correctly
+[2023-12-08 10:32:31,306] - Login - Step 05: Verify 'Email' value is correctly
+[2023-12-08 10:32:31,358] - OS name = windows 10
+[2023-12-08 10:32:31,359] - Driver instance name = chromedriver: chrome on windows (56927adb961e9ebd6a1dcc02d837293f)
+[2023-12-08 10:33:26,005] - Register - Step 01: Click to Register link
+[2023-12-08 10:33:27,614] - Register - Step 02: Click To radio button by label with label is 'Female'
+[2023-12-08 10:33:27,850] - Register - Step 03: Enter to Frirstname textbox with value is 'Automation'
+[2023-12-08 10:33:28,103] - Register - Step 04: Enter to lastName textbox with value is 'FC'
+[2023-12-08 10:33:28,284] - Register - Step 05: Select to Day dropdown with value is '10'
+[2023-12-08 10:33:28,480] - Register - Step 06: Select to Month dropdown with value is 'August'
+[2023-12-08 10:33:28,622] - Register - Step 07: Select to Year dropdown with value is '1999'
+[2023-12-08 10:33:28,744] - Register - Step 08: Enter to Email textbox with value is 'automationfc99841@fakemail.com'
+[2023-12-08 10:33:28,938] - Register - Step 09: Click To checkbox by label with label is 'Newsletter'
+[2023-12-08 10:33:29,000] - Register - Step 10: Enter to Password textbox with value is '123456'
+[2023-12-08 10:33:29,152] - Register - Step 11: Enter to ConfirmPassword textbox with value is '123456'
+[2023-12-08 10:33:29,316] - Register - Step 12: Click to 'Regiter' button
+[2023-12-08 10:33:30,118] - Register - Step 13: verify register success message is diplayed
+[2023-12-08 10:33:30,195] - Register - Step 14: click to 'Continue' button
+[2023-12-08 10:33:30,861] - Login - Step 01: Navigate to Login page
+[2023-12-08 10:33:31,470] - Login - Step 02: Enter to Email textbox with value is 'automationfc99841@fakemail.com'
+[2023-12-08 10:33:31,655] - Login - Step 03: Enter to Password textbox with value is '123456'
+[2023-12-08 10:33:31,796] - Login - Step 04: Click to Login button
+[2023-12-08 10:33:32,630] - Login - Step 05: Verify 'My Account' link is displayed
+[2023-12-08 10:33:32,709] - Login - Step 01: Navigate to 'My Account' page
+[2023-12-08 10:33:33,188] - Login - Step 02: Verify 'Customer Infor' page is displayed
+[2023-12-08 10:33:33,255] - Login - Step 03: Verify 'First Name' value is correctly
+[2023-12-08 10:33:33,312] - Login - Step 04: Verify 'Last Name' value is correctly
+[2023-12-08 10:33:33,361] - Login - Step 05: Verify 'Email' value is correctly
+[2023-12-08 10:33:33,415] - OS name = windows 10
+[2023-12-08 10:33:33,416] - Driver instance name = chromedriver: chrome on windows (29d36ccad8b0fac5d89f9da8be2a911e)
+[2023-12-08 10:36:07,052] - Register - Step 01: Click to Register link
+[2023-12-08 10:36:08,330] - Register - Step 02: Click To radio button by label with label is 'Female'
+[2023-12-08 10:36:08,514] - Register - Step 03: Enter to Frirstname textbox with value is 'Automation'
+[2023-12-08 10:36:08,714] - Register - Step 04: Enter to lastName textbox with value is 'FC'
+[2023-12-08 10:36:08,870] - Register - Step 05: Select to Day dropdown with value is '10'
+[2023-12-08 10:36:09,028] - Register - Step 06: Select to Month dropdown with value is 'August'
+[2023-12-08 10:36:09,169] - Register - Step 07: Select to Year dropdown with value is '1999'
+[2023-12-08 10:36:09,300] - Register - Step 08: Enter to Email textbox with value is 'automationfc65672@fakemail.com'
+[2023-12-08 10:36:09,495] - Register - Step 09: Click To checkbox by label with label is 'Newsletter'
+[2023-12-08 10:36:09,559] - Register - Step 10: Enter to Password textbox with value is '123456'
+[2023-12-08 10:36:09,707] - Register - Step 11: Enter to ConfirmPassword textbox with value is '123456'
+[2023-12-08 10:36:09,854] - Register - Step 12: Click to 'Regiter' button
+[2023-12-08 10:36:10,641] - Register - Step 13: verify register success message is diplayed
+[2023-12-08 10:36:10,715] - Register - Step 14: click to 'Continue' button
+[2023-12-08 10:36:11,527] - Login - Step 01: Navigate to Login page
+[2023-12-08 10:36:12,037] - Login - Step 02: Enter to Email textbox with value is 'automationfc65672@fakemail.com'
+[2023-12-08 10:36:12,251] - Login - Step 03: Enter to Password textbox with value is '123456'
+[2023-12-08 10:36:12,405] - Login - Step 04: Click to Login button
+[2023-12-08 10:36:13,213] - Login - Step 05: Verify 'My Account' link is displayed
+[2023-12-08 10:36:13,290] - Login - Step 01: Navigate to 'My Account' page
+[2023-12-08 10:36:13,755] - Login - Step 02: Verify 'Customer Infor' page is displayed
+[2023-12-08 10:36:13,821] - Login - Step 03: Verify 'First Name' value is correctly
+[2023-12-08 10:36:13,876] - Login - Step 04: Verify 'Last Name' value is correctly
+[2023-12-08 10:36:13,937] - Login - Step 05: Verify 'Email' value is correctly
+[2023-12-08 10:36:13,987] - OS name = windows 10
+[2023-12-08 10:36:13,988] - Driver instance name = chromedriver: chrome on windows (d677de8c5a1fba80bdf451d0fbe8ac43)
+[2023-12-08 10:36:22,635] - Register - Step 01: Click to Register link
+[2023-12-08 10:36:23,793] - Register - Step 02: Click To radio button by label with label is 'Female'
+[2023-12-08 10:36:24,100] - Register - Step 03: Enter to Frirstname textbox with value is 'Automation'
+[2023-12-08 10:36:24,254] - Register - Step 04: Enter to lastName textbox with value is 'FC'
+[2023-12-08 10:36:24,306] - Register - Step 05: Select to Day dropdown with value is '10'
+[2023-12-08 10:36:24,585] - Register - Step 06: Select to Month dropdown with value is 'August'
+[2023-12-08 10:36:24,852] - Register - Step 07: Select to Year dropdown with value is '1999'
+[2023-12-08 10:36:25,122] - Register - Step 08: Enter to Email textbox with value is 'automationfc27635@fakemail.com'
+[2023-12-08 10:36:25,193] - Register - Step 09: Click To checkbox by label with label is 'Newsletter'
+[2023-12-08 10:36:25,233] - Register - Step 10: Enter to Password textbox with value is '123456'
+[2023-12-08 10:36:25,284] - Register - Step 11: Enter to ConfirmPassword textbox with value is '123456'
+[2023-12-08 10:36:25,339] - Register - Step 12: Click to 'Regiter' button
+[2023-12-08 10:36:26,130] - Register - Step 13: verify register success message is diplayed
+[2023-12-08 10:36:26,203] - Register - Step 14: click to 'Continue' button
+[2023-12-08 10:36:26,722] - Login - Step 01: Navigate to Login page
+[2023-12-08 10:36:27,195] - Login - Step 02: Enter to Email textbox with value is 'automationfc27635@fakemail.com'
+[2023-12-08 10:36:27,307] - Login - Step 03: Enter to Password textbox with value is '123456'
+[2023-12-08 10:36:27,370] - Login - Step 04: Click to Login button
+[2023-12-08 10:36:28,145] - Login - Step 05: Verify 'My Account' link is displayed
+[2023-12-08 10:36:28,257] - Login - Step 01: Navigate to 'My Account' page
+[2023-12-08 10:36:28,682] - Login - Step 02: Verify 'Customer Infor' page is displayed
+[2023-12-08 10:36:28,776] - Login - Step 03: Verify 'First Name' value is correctly
+[2023-12-08 10:36:28,829] - Login - Step 04: Verify 'Last Name' value is correctly
+[2023-12-08 10:36:28,883] - Login - Step 05: Verify 'Email' value is correctly
+[2023-12-08 10:36:28,924] - OS name = windows 10
+[2023-12-08 10:36:28,924] - Driver instance name = firefoxdriver: firefox on windows (269b6d96-8a96-4151-adc9-b9a6e481bc9c)
+[2023-12-08 11:05:40,882] - Register - Step 01: Click to Register link
+[2023-12-08 11:05:42,360] - Register - Step 02: Click To radio button by label with label is 'Female'
+[2023-12-08 11:05:42,536] - Register - Step 03: Enter to Frirstname textbox with value is 'Automation'
+[2023-12-08 11:05:42,768] - Register - Step 04: Enter to lastName textbox with value is 'FC'
+[2023-12-08 11:05:42,942] - Register - Step 05: Select to Day dropdown with value is '10'
+[2023-12-08 11:05:43,130] - Register - Step 06: Select to Month dropdown with value is 'August'
+[2023-12-08 11:05:43,268] - Register - Step 07: Select to Year dropdown with value is '1999'
+[2023-12-08 11:05:43,404] - Register - Step 08: Enter to Email textbox with value is 'automationfc57305@fakemail.com'
+[2023-12-08 11:05:43,622] - Register - Step 09: Click To checkbox by label with label is 'Newsletter'
+[2023-12-08 11:05:43,683] - Register - Step 10: Enter to Password textbox with value is '123456'
+[2023-12-08 11:05:43,837] - Register - Step 11: Enter to ConfirmPassword textbox with value is '123456'
+[2023-12-08 11:05:43,984] - Register - Step 12: Click to 'Regiter' button
+[2023-12-08 11:05:44,845] - Register - Step 13: verify register success message is diplayed
+[2023-12-08 11:05:44,916] - Register - Step 14: click to 'Continue' button
+[2023-12-08 11:05:45,613] - Login - Step 01: Navigate to Login page
+[2023-12-08 11:05:46,188] - Login - Step 02: Enter to Email textbox with value is 'automationfc57305@fakemail.com'
+[2023-12-08 11:05:46,370] - Login - Step 03: Enter to Password textbox with value is '123456'
+[2023-12-08 11:05:46,521] - Login - Step 04: Click to Login button
+[2023-12-08 11:05:47,397] - Login - Step 05: Verify 'My Account' link is displayed
+[2023-12-08 11:05:47,486] - Login - Step 01: Navigate to 'My Account' page
+[2023-12-08 11:05:48,010] - Login - Step 02: Verify 'Customer Infor' page is displayed
+[2023-12-08 11:05:48,079] - Login - Step 03: Verify 'First Name' value is correctly
+[2023-12-08 11:05:48,151] - Login - Step 04: Verify 'Last Name' value is correctly
+[2023-12-08 11:05:48,210] - Login - Step 05: Verify 'Email' value is correctly
+[2023-12-08 11:05:48,268] - OS name = windows 10
+[2023-12-08 11:05:48,269] - Driver instance name = chromedriver: chrome on windows (0417b15642108c3510cbdde2831579ad)
+[2023-12-08 11:05:55,153] - Register - Step 01: Click to Register link
+[2023-12-08 11:05:56,290] - Register - Step 02: Click To radio button by label with label is 'Female'
+[2023-12-08 11:05:56,592] - Register - Step 03: Enter to Frirstname textbox with value is 'Automation'
+[2023-12-08 11:05:56,762] - Register - Step 04: Enter to lastName textbox with value is 'FC'
+[2023-12-08 11:05:56,843] - Register - Step 05: Select to Day dropdown with value is '10'
+[2023-12-08 11:05:57,137] - Register - Step 06: Select to Month dropdown with value is 'August'
+[2023-12-08 11:05:57,411] - Register - Step 07: Select to Year dropdown with value is '1999'
+[2023-12-08 11:05:57,682] - Register - Step 08: Enter to Email textbox with value is 'automationfc825@fakemail.com'
+[2023-12-08 11:05:57,743] - Register - Step 09: Click To checkbox by label with label is 'Newsletter'
+[2023-12-08 11:05:57,784] - Register - Step 10: Enter to Password textbox with value is '123456'
+[2023-12-08 11:05:57,839] - Register - Step 11: Enter to ConfirmPassword textbox with value is '123456'
+[2023-12-08 11:05:57,911] - Register - Step 12: Click to 'Regiter' button
+[2023-12-08 11:05:58,717] - Register - Step 13: verify register success message is diplayed
+[2023-12-08 11:05:58,805] - Register - Step 14: click to 'Continue' button
+[2023-12-08 11:05:59,412] - Login - Step 01: Navigate to Login page
+[2023-12-08 11:05:59,902] - Login - Step 02: Enter to Email textbox with value is 'automationfc825@fakemail.com'
+[2023-12-08 11:06:00,015] - Login - Step 03: Enter to Password textbox with value is '123456'
+[2023-12-08 11:06:00,088] - Login - Step 04: Click to Login button
+[2023-12-08 11:06:00,802] - Login - Step 05: Verify 'My Account' link is displayed
+[2023-12-08 11:06:00,921] - Login - Step 01: Navigate to 'My Account' page
+[2023-12-08 11:06:01,362] - Login - Step 02: Verify 'Customer Infor' page is displayed
+[2023-12-08 11:06:01,457] - Login - Step 03: Verify 'First Name' value is correctly
+[2023-12-08 11:06:01,509] - Login - Step 04: Verify 'Last Name' value is correctly
+[2023-12-08 11:06:01,560] - Login - Step 05: Verify 'Email' value is correctly
+[2023-12-08 11:06:01,599] - OS name = windows 10
+[2023-12-08 11:06:01,599] - Driver instance name = firefoxdriver: firefox on windows (63dcc852-5575-4d25-b05b-c10c2bc6e382)
+[2023-12-08 11:18:54,138] - Register - Step 01: Click to Register link
+[2023-12-08 11:18:55,583] - Register - Step 02: Click To radio button by label with label is 'Female'
+[2023-12-08 11:18:55,771] - Register - Step 03: Enter to Frirstname textbox with value is 'Automation'
+[2023-12-08 11:18:55,946] - Register - Step 04: Enter to lastName textbox with value is 'FC'
+[2023-12-08 11:18:56,109] - Register - Step 05: Select to Day dropdown with value is '10'
+[2023-12-08 11:18:56,261] - Register - Step 06: Select to Month dropdown with value is 'August'
+[2023-12-08 11:18:56,395] - Register - Step 07: Select to Year dropdown with value is '1999'
+[2023-12-08 11:18:56,532] - Register - Step 08: Enter to Email textbox with value is 'automationfc35597@fakemail.com'
+[2023-12-08 11:18:56,740] - Register - Step 09: Click To checkbox by label with label is 'Newsletter'
+[2023-12-08 11:18:56,813] - Register - Step 10: Enter to Password textbox with value is '123456'
+[2023-12-08 11:18:56,971] - Register - Step 11: Enter to ConfirmPassword textbox with value is '123456'
+[2023-12-08 11:18:57,171] - Register - Step 12: Click to 'Regiter' button
+[2023-12-08 11:18:58,025] - Register - Step 13: verify register success message is diplayed
+[2023-12-08 11:18:58,114] - Register - Step 14: click to 'Continue' button
+[2023-12-08 11:18:58,764] - Login - Step 01: Navigate to Login page
+[2023-12-08 11:18:59,352] - Login - Step 02: Enter to Email textbox with value is 'automationfc35597@fakemail.com'
+[2023-12-08 11:18:59,512] - Login - Step 03: Enter to Password textbox with value is '123456'
+[2023-12-08 11:18:59,669] - Login - Step 04: Click to Login button
+[2023-12-08 11:19:00,507] - Login - Step 05: Verify 'My Account' link is displayed
+[2023-12-08 11:19:00,602] - Login - Step 01: Navigate to 'My Account' page
+[2023-12-08 11:19:01,079] - Login - Step 02: Verify 'Customer Infor' page is displayed
+[2023-12-08 11:19:01,150] - Login - Step 03: Verify 'First Name' value is correctly
+[2023-12-08 11:19:01,202] - Login - Step 04: Verify 'Last Name' value is correctly
+[2023-12-08 11:19:01,257] - Login - Step 05: Verify 'Email' value is correctly
+[2023-12-08 11:19:01,313] - OS name = windows 10
+[2023-12-08 11:19:01,313] - Driver instance name = chromedriver: chrome on windows (0e04abb2d112baac3f63397607e37126)
+[2023-12-08 11:19:08,591] - Register - Step 01: Click to Register link
+[2023-12-08 11:19:09,860] - Register - Step 02: Click To radio button by label with label is 'Female'
+[2023-12-08 11:19:10,188] - Register - Step 03: Enter to Frirstname textbox with value is 'Automation'
+[2023-12-08 11:19:10,350] - Register - Step 04: Enter to lastName textbox with value is 'FC'
+[2023-12-08 11:19:10,418] - Register - Step 05: Select to Day dropdown with value is '10'
+[2023-12-08 11:19:10,716] - Register - Step 06: Select to Month dropdown with value is 'August'
+[2023-12-08 11:19:10,998] - Register - Step 07: Select to Year dropdown with value is '1999'
+[2023-12-08 11:19:11,292] - Register - Step 08: Enter to Email textbox with value is 'automationfc25193@fakemail.com'
+[2023-12-08 11:19:11,369] - Register - Step 09: Click To checkbox by label with label is 'Newsletter'
+[2023-12-08 11:19:11,407] - Register - Step 10: Enter to Password textbox with value is '123456'
+[2023-12-08 11:19:11,464] - Register - Step 11: Enter to ConfirmPassword textbox with value is '123456'
+[2023-12-08 11:19:11,527] - Register - Step 12: Click to 'Regiter' button
+[2023-12-08 11:19:12,282] - Register - Step 13: verify register success message is diplayed
+[2023-12-08 11:19:12,374] - Register - Step 14: click to 'Continue' button
+[2023-12-08 11:19:12,941] - Login - Step 01: Navigate to Login page
+[2023-12-08 11:19:13,421] - Login - Step 02: Enter to Email textbox with value is 'automationfc25193@fakemail.com'
+[2023-12-08 11:19:13,525] - Login - Step 03: Enter to Password textbox with value is '123456'
+[2023-12-08 11:19:13,588] - Login - Step 04: Click to Login button
+[2023-12-08 11:19:14,308] - Login - Step 05: Verify 'My Account' link is displayed
+[2023-12-08 11:19:14,415] - Login - Step 01: Navigate to 'My Account' page
+[2023-12-08 11:19:14,845] - Login - Step 02: Verify 'Customer Infor' page is displayed
+[2023-12-08 11:19:14,932] - Login - Step 03: Verify 'First Name' value is correctly
+[2023-12-08 11:19:14,986] - Login - Step 04: Verify 'Last Name' value is correctly
+[2023-12-08 11:19:15,030] - Login - Step 05: Verify 'Email' value is correctly
+[2023-12-08 11:19:15,083] - OS name = windows 10
+[2023-12-08 11:19:15,083] - Driver instance name = firefoxdriver: firefox on windows (ea835332-8c71-43a1-a343-6d15fb5c5463)
+[2023-12-08 11:28:17,362] - Register - Step 01: Click to Register link
+[2023-12-08 11:28:18,166] - Register - Step 02: Click To radio button by label with label is 'Female'
+[2023-12-08 11:28:18,410] - Register - Step 03: Enter to Frirstname textbox with value is 'Automation'
+[2023-12-08 11:28:18,635] - Register - Step 04: Enter to lastName textbox with value is 'FC'
+[2023-12-08 11:28:18,796] - Register - Step 05: Select to Day dropdown with value is '10'
+[2023-12-08 11:28:18,956] - Register - Step 06: Select to Month dropdown with value is 'August'
+[2023-12-08 11:28:19,148] - Register - Step 07: Select to Year dropdown with value is '1999'
+[2023-12-08 11:28:19,310] - Register - Step 08: Enter to Email textbox with value is 'automationfc13759@fakemail.com'
+[2023-12-08 11:28:19,534] - Register - Step 09: Click To checkbox by label with label is 'Newsletter'
+[2023-12-08 11:28:19,603] - Register - Step 10: Enter to Password textbox with value is '123456'
+[2023-12-08 11:28:19,757] - Register - Step 11: Enter to ConfirmPassword textbox with value is '123456'
+[2023-12-08 11:28:19,924] - Register - Step 12: Click to 'Regiter' button
+[2023-12-08 11:28:20,798] - Register - Step 13: verify register success message is diplayed
+[2023-12-08 11:28:20,913] - Register - Step 14: click to 'Continue' button
+[2023-12-08 11:28:21,688] - Login - Step 01: Navigate to Login page
+[2023-12-08 11:28:22,277] - Login - Step 02: Enter to Email textbox with value is 'automationfc13759@fakemail.com'
+[2023-12-08 11:28:22,489] - Login - Step 03: Enter to Password textbox with value is '123456'
+[2023-12-08 11:28:22,650] - Login - Step 04: Click to Login button
+[2023-12-08 11:28:23,453] - Login - Step 05: Verify 'My Account' link is displayed
+[2023-12-08 11:28:23,564] - Login - Step 01: Navigate to 'My Account' page
+[2023-12-08 11:28:24,073] - Login - Step 02: Verify 'Customer Infor' page is displayed
+[2023-12-08 11:28:24,173] - Login - Step 03: Verify 'First Name' value is correctly
+[2023-12-08 11:28:24,231] - Login - Step 04: Verify 'Last Name' value is correctly
+[2023-12-08 11:28:24,282] - Login - Step 05: Verify 'Email' value is correctly
+[2023-12-08 11:28:24,340] - OS name = windows 10
+[2023-12-08 11:28:24,341] - Driver instance name = chromedriver: chrome on windows (05a4dc0768f44eea4378d789db4bce08)
+[2023-12-08 11:28:31,463] - Register - Step 01: Click to Register link
+[2023-12-08 11:28:32,719] - Register - Step 02: Click To radio button by label with label is 'Female'
+[2023-12-08 11:28:33,063] - Register - Step 03: Enter to Frirstname textbox with value is 'Automation'
+[2023-12-08 11:28:33,198] - Register - Step 04: Enter to lastName textbox with value is 'FC'
+[2023-12-08 11:28:33,265] - Register - Step 05: Select to Day dropdown with value is '10'
+[2023-12-08 11:28:33,576] - Register - Step 06: Select to Month dropdown with value is 'August'
+[2023-12-08 11:28:33,862] - Register - Step 07: Select to Year dropdown with value is '1999'
+[2023-12-08 11:28:34,208] - Register - Step 08: Enter to Email textbox with value is 'automationfc9756@fakemail.com'
+[2023-12-08 11:28:34,275] - Register - Step 09: Click To checkbox by label with label is 'Newsletter'
+[2023-12-08 11:28:34,314] - Register - Step 10: Enter to Password textbox with value is '123456'
+[2023-12-08 11:28:34,371] - Register - Step 11: Enter to ConfirmPassword textbox with value is '123456'
+[2023-12-08 11:28:34,428] - Register - Step 12: Click to 'Regiter' button
+[2023-12-08 11:28:35,216] - Register - Step 13: verify register success message is diplayed
+[2023-12-08 11:28:35,322] - Register - Step 14: click to 'Continue' button
+[2023-12-08 11:28:35,835] - Login - Step 01: Navigate to Login page
+[2023-12-08 11:28:36,326] - Login - Step 02: Enter to Email textbox with value is 'automationfc9756@fakemail.com'
+[2023-12-08 11:28:36,476] - Login - Step 03: Enter to Password textbox with value is '123456'
+[2023-12-08 11:28:36,561] - Login - Step 04: Click to Login button
+[2023-12-08 11:28:37,713] - Login - Step 05: Verify 'My Account' link is displayed
+[2023-12-08 11:28:37,865] - Login - Step 01: Navigate to 'My Account' page
+[2023-12-08 11:28:38,311] - Login - Step 02: Verify 'Customer Infor' page is displayed
+[2023-12-08 11:28:38,430] - Login - Step 03: Verify 'First Name' value is correctly
+[2023-12-08 11:28:38,476] - Login - Step 04: Verify 'Last Name' value is correctly
+[2023-12-08 11:28:38,517] - Login - Step 05: Verify 'Email' value is correctly
+[2023-12-08 11:28:38,559] - OS name = windows 10
+[2023-12-08 11:28:38,559] - Driver instance name = firefoxdriver: firefox on windows (a5f8d228-8688-48a5-84d7-f0248d15e5da)
+[2023-12-08 11:32:32,263] - Register - Step 01: Click to Register link
+[2023-12-08 11:32:33,689] - Register - Step 02: Click To radio button by label with label is 'Female'
+[2023-12-08 11:32:33,900] - Register - Step 03: Enter to Frirstname textbox with value is 'Automation'
+[2023-12-08 11:32:34,209] - Register - Step 04: Enter to lastName textbox with value is 'FC'
+[2023-12-08 11:32:34,403] - Register - Step 05: Select to Day dropdown with value is '10'
+[2023-12-08 11:32:34,555] - Register - Step 06: Select to Month dropdown with value is 'August'
+[2023-12-08 11:32:34,698] - Register - Step 07: Select to Year dropdown with value is '1999'
+[2023-12-08 11:32:34,828] - Register - Step 08: Enter to Email textbox with value is 'automationfc94855@fakemail.com'
+[2023-12-08 11:32:35,016] - Register - Step 09: Click To checkbox by label with label is 'Newsletter'
+[2023-12-08 11:32:35,081] - Register - Step 10: Enter to Password textbox with value is '123456'
+[2023-12-08 11:32:35,274] - Register - Step 11: Enter to ConfirmPassword textbox with value is '123456'
+[2023-12-08 11:32:35,500] - Register - Step 12: Click to 'Regiter' button
+[2023-12-08 11:32:36,417] - Register - Step 13: verify register success message is diplayed
+[2023-12-08 11:32:36,493] - Register - Step 14: click to 'Continue' button
+[2023-12-08 11:32:37,135] - Login - Step 01: Navigate to Login page
+[2023-12-08 11:32:37,652] - Login - Step 02: Enter to Email textbox with value is 'automationfc94855@fakemail.com'
+[2023-12-08 11:32:37,859] - Login - Step 03: Enter to Password textbox with value is '123456'
+[2023-12-08 11:32:38,083] - Login - Step 04: Click to Login button
+[2023-12-08 11:32:38,973] - Login - Step 05: Verify 'My Account' link is displayed
+[2023-12-08 11:32:39,053] - Login - Step 01: Navigate to 'My Account' page
+[2023-12-08 11:32:39,555] - Login - Step 02: Verify 'Customer Infor' page is displayed
+[2023-12-08 11:32:39,618] - Login - Step 03: Verify 'First Name' value is correctly
+[2023-12-08 11:32:39,679] - Login - Step 04: Verify 'Last Name' value is correctly
+[2023-12-08 11:32:39,730] - Login - Step 05: Verify 'Email' value is correctly
+[2023-12-08 11:32:39,782] - OS name = windows 10
+[2023-12-08 11:32:39,782] - Driver instance name = chromedriver: chrome on windows (35ec328049ed4b076ed9c005a7716a45)
+[2023-12-08 11:32:47,455] - Register - Step 01: Click to Register link
+[2023-12-08 11:32:48,622] - Register - Step 02: Click To radio button by label with label is 'Female'
+[2023-12-08 11:32:48,944] - Register - Step 03: Enter to Frirstname textbox with value is 'Automation'
+[2023-12-08 11:32:49,068] - Register - Step 04: Enter to lastName textbox with value is 'FC'
+[2023-12-08 11:32:49,121] - Register - Step 05: Select to Day dropdown with value is '10'
+[2023-12-08 11:32:49,402] - Register - Step 06: Select to Month dropdown with value is 'August'
+[2023-12-08 11:32:49,671] - Register - Step 07: Select to Year dropdown with value is '1999'
+[2023-12-08 11:32:49,954] - Register - Step 08: Enter to Email textbox with value is 'automationfc70856@fakemail.com'
+[2023-12-08 11:32:50,035] - Register - Step 09: Click To checkbox by label with label is 'Newsletter'
+[2023-12-08 11:32:50,073] - Register - Step 10: Enter to Password textbox with value is '123456'
+[2023-12-08 11:32:50,138] - Register - Step 11: Enter to ConfirmPassword textbox with value is '123456'
+[2023-12-08 11:32:50,208] - Register - Step 12: Click to 'Regiter' button
+[2023-12-08 11:32:50,982] - Register - Step 13: verify register success message is diplayed
+[2023-12-08 11:32:51,068] - Register - Step 14: click to 'Continue' button
+[2023-12-08 11:32:51,595] - Login - Step 01: Navigate to Login page
+[2023-12-08 11:32:52,106] - Login - Step 02: Enter to Email textbox with value is 'automationfc70856@fakemail.com'
+[2023-12-08 11:32:52,253] - Login - Step 03: Enter to Password textbox with value is '123456'
+[2023-12-08 11:32:52,343] - Login - Step 04: Click to Login button
+[2023-12-08 11:32:53,090] - Login - Step 05: Verify 'My Account' link is displayed
+[2023-12-08 11:32:53,202] - Login - Step 01: Navigate to 'My Account' page
+[2023-12-08 11:32:53,623] - Login - Step 02: Verify 'Customer Infor' page is displayed
+[2023-12-08 11:32:53,727] - Login - Step 03: Verify 'First Name' value is correctly
+[2023-12-08 11:32:53,786] - Login - Step 04: Verify 'Last Name' value is correctly
+[2023-12-08 11:32:53,827] - Login - Step 05: Verify 'Email' value is correctly
+[2023-12-08 11:32:53,863] - OS name = windows 10
+[2023-12-08 11:32:53,863] - Driver instance name = firefoxdriver: firefox on windows (f125fd8d-e9e4-4796-8323-5b756b7892db)
+[2023-12-08 11:36:13,679] - Register - Step 01: Click to Register link
+[2023-12-08 11:36:15,005] - Register - Step 02: Click To radio button by label with label is 'Female'
+[2023-12-08 11:36:15,202] - Register - Step 03: Enter to Frirstname textbox with value is 'Automation'
+[2023-12-08 11:36:15,473] - Register - Step 04: Enter to lastName textbox with value is 'FC'
+[2023-12-08 11:36:15,684] - Register - Step 05: Select to Day dropdown with value is '10'
+[2023-12-08 11:36:15,881] - Register - Step 06: Select to Month dropdown with value is 'August'
+[2023-12-08 11:36:16,031] - Register - Step 07: Select to Year dropdown with value is '1999'
+[2023-12-08 11:36:16,188] - Register - Step 08: Enter to Email textbox with value is 'automationfc47871@fakemail.com'
+[2023-12-08 11:36:16,388] - Register - Step 09: Click To checkbox by label with label is 'Newsletter'
+[2023-12-08 11:36:16,452] - Register - Step 10: Enter to Password textbox with value is '123456'
+[2023-12-08 11:36:16,607] - Register - Step 11: Enter to ConfirmPassword textbox with value is '123456'
+[2023-12-08 11:36:16,788] - Register - Step 12: Click to 'Regiter' button
+[2023-12-08 11:36:17,567] - Register - Step 13: verify register success message is diplayed
+[2023-12-08 11:36:17,645] - Register - Step 14: click to 'Continue' button
+[2023-12-08 11:36:18,289] - Login - Step 01: Navigate to Login page
+[2023-12-08 11:36:18,799] - Login - Step 02: Enter to Email textbox with value is 'automationfc47871@fakemail.com'
+[2023-12-08 11:36:18,983] - Login - Step 03: Enter to Password textbox with value is '123456'
+[2023-12-08 11:36:19,183] - Login - Step 04: Click to Login button
+[2023-12-08 11:36:19,964] - Login - Step 05: Verify 'My Account' link is displayed
+[2023-12-08 11:36:20,086] - Login - Step 01: Navigate to 'My Account' page
+[2023-12-08 11:36:20,583] - Login - Step 02: Verify 'Customer Infor' page is displayed
+[2023-12-08 11:36:20,667] - Login - Step 03: Verify 'First Name' value is correctly
+[2023-12-08 11:36:20,736] - Login - Step 04: Verify 'Last Name' value is correctly
+[2023-12-08 11:36:20,788] - Login - Step 05: Verify 'Email' value is correctly
+[2023-12-08 11:36:20,842] - OS name = windows 10
+[2023-12-08 11:36:20,843] - Driver instance name = chromedriver: chrome on windows (7dbdef0892cecbc21f5444aaacb0eba7)
+[2023-12-08 11:36:28,295] - Register - Step 01: Click to Register link
+[2023-12-08 11:36:29,855] - Register - Step 02: Click To radio button by label with label is 'Female'
+[2023-12-08 11:36:30,216] - Register - Step 03: Enter to Frirstname textbox with value is 'Automation'
+[2023-12-08 11:36:30,363] - Register - Step 04: Enter to lastName textbox with value is 'FC'
+[2023-12-08 11:36:30,422] - Register - Step 05: Select to Day dropdown with value is '10'
+[2023-12-08 11:36:30,704] - Register - Step 06: Select to Month dropdown with value is 'August'
+[2023-12-08 11:36:30,975] - Register - Step 07: Select to Year dropdown with value is '1999'
+[2023-12-08 11:36:31,271] - Register - Step 08: Enter to Email textbox with value is 'automationfc34918@fakemail.com'
+[2023-12-08 11:36:31,338] - Register - Step 09: Click To checkbox by label with label is 'Newsletter'
+[2023-12-08 11:36:31,379] - Register - Step 10: Enter to Password textbox with value is '123456'
+[2023-12-08 11:36:31,440] - Register - Step 11: Enter to ConfirmPassword textbox with value is '123456'
+[2023-12-08 11:36:31,497] - Register - Step 12: Click to 'Regiter' button
+[2023-12-08 11:36:32,338] - Register - Step 13: verify register success message is diplayed
+[2023-12-08 11:36:32,486] - Register - Step 14: click to 'Continue' button
+[2023-12-08 11:36:33,037] - Login - Step 01: Navigate to Login page
+[2023-12-08 11:36:33,577] - Login - Step 02: Enter to Email textbox with value is 'automationfc34918@fakemail.com'
+[2023-12-08 11:36:33,737] - Login - Step 03: Enter to Password textbox with value is '123456'
+[2023-12-08 11:36:33,806] - Login - Step 04: Click to Login button
+[2023-12-08 11:36:34,566] - Login - Step 05: Verify 'My Account' link is displayed
+[2023-12-08 11:36:34,694] - Login - Step 01: Navigate to 'My Account' page
+[2023-12-08 11:36:35,142] - Login - Step 02: Verify 'Customer Infor' page is displayed
+[2023-12-08 11:36:35,254] - Login - Step 03: Verify 'First Name' value is correctly
+[2023-12-08 11:36:35,302] - Login - Step 04: Verify 'Last Name' value is correctly
+[2023-12-08 11:36:35,347] - Login - Step 05: Verify 'Email' value is correctly
+[2023-12-08 11:36:35,391] - OS name = windows 10
+[2023-12-08 11:36:35,391] - Driver instance name = firefoxdriver: firefox on windows (816db15a-ef0f-4ebc-92d3-2a41d5565388)

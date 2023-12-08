@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite parallel="false" name="Nopcommerce">
+
+  <parameter name="url" value="https://live.techpanda.org/"/>
+  <test name="Run on Firefox">
+  	<parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="com.liveguru.user.Level_10_DataTable_DataGrid"/>
+    </classes>
+  </test> 
+  
+</suite> 
+ 

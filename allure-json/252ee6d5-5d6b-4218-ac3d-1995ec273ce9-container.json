@@ -1,0 +1,1 @@
+{"uuid":"252ee6d5-5d6b-4218-ac3d-1995ec273ce9","name":"sauce Labs","children":["a96c12f6-f671-4740-8243-3ffbc0293b77"],"befores":[{"name":"deleteFileInReport","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1702052069245,"stop":1702052069308}],"afters":[],"links":[],"start":1702052069192,"stop":1702052080142}
